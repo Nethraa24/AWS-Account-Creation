@@ -22,8 +22,8 @@ Step 6: Set Permissions for IAM User
 Step 7: Review and Create IAM User
 
 ### OUTPUT
-REG NUMBER: 212222100042
-NAME: RAJESH A
+REG NUMBER: 212222100031
+NAME: NETHRAA J
 #### Root user: 
 ![1](https://github.com/user-attachments/assets/8abc03d1-e5d7-4565-9cba-86992cfc73b6)
 
